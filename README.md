@@ -1,7 +1,7 @@
 # brs-quick-xmrig-core
 brs-quick-xmrig-core is a scratchpad for setting up rigs
 
-these commands will only work as planned...
+these commands will only work as planned,
 once the updates are completed, and these lines are gone
 
 Windows setup string
