@@ -4,8 +4,11 @@ brs-quick-xmrig-core is a scratchpad for setting up rigs
 these commands will only work as planned,
 once the updates are completed, and these lines are gone
 HEY ARE NOT READY FOR USE YET.
+
 Running the linux version install works once you have the file downloaded
+
 git clone https://github.com/blackrangersoftware/brs-xmrig_setup
+
 Works if you download the files and set it executable
 then run the file setup_brs_miner.sh
 
