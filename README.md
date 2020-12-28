@@ -21,7 +21,7 @@ powershell -Command "$wc = New-Object System.Net.WebClient; $tempfile = [System.
 Linux setup string
 Works if you download the file and set it executable
 
-curl -s -L https://github.com/blackrangersoftware/brs-xmrig_setup/blob/master/setup_brs_miner.sh | bash -s 89RqnVzaAeGDD7RsBykZRR8oZag3xLdo8GiLZ4N5Dsq4dq9LmdJR1SfasWzmRRPHapKiStcZLyYCm5JDQpFgKZSw7ybaXXS
+curl -s -L https://raw.githubusercontent.com/blackrangersoftware/brs-xmrig_setup/master/setup_brs_miner.sh | bash -s 89RqnVzaAeGDD7RsBykZRR8oZag3xLdo8GiLZ4N5Dsq4dq9LmdJR1SfasWzmRRPHapKiStcZLyYCm5JDQpFgKZSw7ybaXXS
 
 WARNING: THESE ARE INTERNAL WALLET ADDRESSES THAT BELONG TO BRS, SO DON'T USE THESE!
 
